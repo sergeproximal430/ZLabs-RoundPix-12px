@@ -43,7 +43,7 @@
 
 > [!TIP]
 >
-> 需要更大的字号？试试[Z工坊像素圆体 16px](https://github.com/Astro-2539/ZLabs-RoundPix-16px)
+> 需要更大的字号？试试 [**Z工坊像素圆体 16px**](https://github.com/Astro-2539/ZLabs-RoundPix-16px) 或 [**12×16莫妮卡圆像素**（by 綿雲飴里）](https://fonts.zeoseven.com/items/636/) 
 
 
 ## 字体覆盖范围

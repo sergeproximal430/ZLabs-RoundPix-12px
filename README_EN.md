@@ -44,7 +44,7 @@ This project is in the development stage. Currently, it supports Level 1 Chinese
 
 > [!TIP]
 >
-> Need larger size? Try [Z Labs RoundPix 16px](https://github.com/Astro-2539/ZLabs-RoundPix-16px)
+> Need larger size? Try [**Z Labs RoundPix 16px**](https://github.com/Astro-2539/ZLabs-RoundPix-16px) or [**x12y16pxMyMaruMonica** (by 綿雲飴里)](https://fonts.zeoseven.com/items/636/)
 
 ## Font Coverage
 
